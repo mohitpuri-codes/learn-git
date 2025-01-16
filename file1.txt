@@ -1,1 +1,2 @@
 this is the text from file1,
+more texts in this file have been added to see the difference 
