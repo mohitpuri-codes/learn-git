@@ -1,2 +1,7 @@
 this is a main file
+
 this is for auth file
+
+some more text in main
+this is for auth file
+
